@@ -17,6 +17,4 @@ Includes scripts and files used to annotate variants with gene region informatio
 These scripts also include the statistical tests used to determine significant differences in regional heteroplasmic burden between different ancestry categories. 
 
 ## Publication
-For more information, please see our publication:
-_Insert citation here_
-Please also cite our publication when making use of these scripts. 
+For more information, please see our publication. Please cite our publication when making use of these scripts. 
