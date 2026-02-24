@@ -10,7 +10,7 @@ Following removal of haplogroup-defining vatiants, remaining variants are classi
 This step also generates basic descriptive statistics. 
 
 ## 2. Association models 
-Includes scripts and files used to run negative binomial regression models. Using these models, we aimed to identify the variables influencing heteriplasmic burden. 
+Includes scripts and files used to run negative binomial regression models. Using these models, we aimed to identify the variables influencing heteroplasmic and homoplasmic variant burden. 
 These scripts also include multiple testing correction using FDR-correction methods. 
 
 ## 3. Regional analysis
